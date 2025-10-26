@@ -1,0 +1,21 @@
+{
+	"short_name": "Clovi Sol",
+	"name": "Clovi Sol - Your Growth Partner",
+	"description": "Clovi Sol is a dynamic AI cloud based software development agency dedicated to delivering top-notch digital solutions with creativity and precision.",
+	"icons": [
+		{
+			"src": "./favicon.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "./favicon.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "./index.html",
+	"display": "standalone",
+	"theme_color": "#5788FA",
+	"background_color": "#1c1c1c"
+}
